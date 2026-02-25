@@ -23,8 +23,6 @@ nav:
       - 'Вещи с боссов': 'Guides/itemsboss.md'
     - 'Донат':
       - 'Информация о донате': 'Guides/donate_info.md'
-  - 🎉 Ивенты:
-    - Мистический сундук: Events/Mystick_chest.md
 
 repo_url: https://github.com/3B3TServer/Docs
 repo_name: GitHub
